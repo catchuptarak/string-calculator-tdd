@@ -42,14 +42,21 @@ cd string-calculator-tdd
 
    `npm test`
 
-2. Start the App
-   Run the index.js file to interact with the String Calculator manually:
+![npm run test demo]('./assets/images/test.png')
 
-`npm start`
-
-3. Command-Line Input
+2. Command-Line Input
    Test specific input directly using the command script:
 
 `npm run command`
 
 `npm run command -- "1,2,3"`
+
+![npm run command demo]('./assets/images/command.png')
+
+
+3. Start the App
+   Run the index.js file to interact with the String Calculator manually:
+
+`npm start`
+
+![npm run start demo]('./assets/images/execution.png')
