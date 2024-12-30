@@ -42,7 +42,7 @@ cd string-calculator-tdd
 
    `npm test`
 
-![npm run test demo]('./assets/images/test.png')
+![npm run test demo](./assets/images/test.png)
 
 2. Command-Line Input
    Test specific input directly using the command script:
@@ -51,7 +51,7 @@ cd string-calculator-tdd
 
 `npm run command -- "1,2,3"`
 
-![npm run command demo]('./assets/images/command.png')
+![npm run command demo](./assets/images/command.png)
 
 
 3. Start the App
@@ -59,4 +59,4 @@ cd string-calculator-tdd
 
 `npm start`
 
-![npm run start demo]('./assets/images/execution.png')
+![npm run start demo](./assets/images/execution.png)
