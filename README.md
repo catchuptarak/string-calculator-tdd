@@ -12,14 +12,14 @@ Scalable Testing: Automated testing using Jest.
 
 # Project Structure
 
-├── functions/
-│ └── stringCalculator.js # Core logic for the String Calculator
-├── test/
-│ └── stringCalculator.test.js # Unit tests for the String Calculator
-├── index.js # Main entry point for testing and demonstration
-├── command.js # Script for command-line testing
-├── README.md # Project documentation
-├── package.json # Project configuration
+├── functions/                # Contains core logic
+│   └── stringCalculator.js
+├── test/                     # Jest test cases
+│   └── stringCalculator.test.js
+├── index.js                  # Predefined test cases
+├── command.js                # Command-line testing
+├── package.json              # Project setup
+
 
 # Prerequisites
 
