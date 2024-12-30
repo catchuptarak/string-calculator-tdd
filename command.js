@@ -1,4 +1,4 @@
-const add = require('./functions/stringCalculator');
+const add = require("./functions/stringCalculator");
 
 // Get input from the command line
 const input = process.argv[2]; // The third argument is the user input
